@@ -29,11 +29,14 @@ Email Service: External service for sending email notifications.
 Cloud Storage: External service for storing media files (e.g., property images, profile photos).
 ## 🚀 How to View the Diagram
 The use case diagram is provided as a PNG image file:
-![iagram](rre)
+
 airbnb_use_case_diagram.png
 You can view this file directly within GitHub, or download it for a closer look.
 
-🛠️ Tools Used
+## 🛠️ Tools Used
 Draw.io (now diagrams.net) - For creating the use case diagram.
-📁 Repository Structure
+## 📁 Repository Structure
 This use-case-diagram/ directory is part of the larger alx-airbnb-project-documentation repository.
+
+
+![iagram](use-case-diagram.png)
