@@ -157,4 +157,5 @@
   * Unit Tests (pytest)
   * API Tests
 
-
+## 📸 The Diagram
+![Documentation](Documentation.png)
