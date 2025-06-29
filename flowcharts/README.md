@@ -23,3 +23,5 @@ Generate JWT access token
 Store login session (if applicable)
 Send success response & redirect user to dashboard
 End
+
+![diagram](data-flow-diagram.png)
