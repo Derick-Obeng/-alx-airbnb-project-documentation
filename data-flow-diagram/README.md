@@ -7,3 +7,6 @@ External Entities: Guest, Host, Admin, Payment Gateway, Email Notification Servi
 Processes: Authentication, Listing Management, Booking, Payment Processing, Notifications
 Data Stores: User Data, Listings, Bookings, Payments, Reviews
 Data Flows: All relevant interactions and data movements across components
+
+
+![data-flow](data-flow.png)
